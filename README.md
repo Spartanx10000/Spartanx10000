@@ -3,7 +3,7 @@
 
 Hi, I'm Carlos Angulo, a computer systems engineer from Mexico :mexico:.
 
-- 	:man_technologist: &nbsp;I'm currently working as a programmer
+- 	:man_technologist: &nbsp;I'm currently working as a Software Project Leader
 - ⚡ &nbsp;Fun fact: SpartanX10000 is my xbox gamertag
 
 ------
@@ -84,7 +84,7 @@ These are some of the things I have developed with:
   <p align="left"> 
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/>
-    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="arduino"/>  
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspberry-pi"/>  
   </p>
 </details>
 
